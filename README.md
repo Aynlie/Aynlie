@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Aynlie
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning python,css and HTMl
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in reading manga, manhwa, manhua
+- my favorite troupe is enemies to lovers (don't ask why haha)
+- 🌱 I’m currently learning python,css and html and studying Information Technology specialize on Web development
+- My First program language is Python
+- 💞️ I’m looking to collaborate on derpixon eme 
 - 📫 How to reach me ig:Jaynielili 
 - 😄 Pronouns: she
 - ⚡ Fun fact: I drunk gasoline when I was 7 years old 
