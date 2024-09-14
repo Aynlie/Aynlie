@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aynlie
+- 👋 Hi, I’m Jayn
 - 👀 I’m interested in reading manga, manhwa, manhua
 - my favorite troupe is enemies to lovers (don't ask why haha)
 - 🌱 I’m currently learning python,css and html and studying Information Technology specialize on Web development
