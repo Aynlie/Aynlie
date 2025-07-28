@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 💕 I'm Jaymee 💻💅</h1>
 
 <p align="center">
-  🌸 Cybersecurity | 🎨 UI/UX Designer | 💖 Code meets Couture 💖  
+  🌸 Cybersecurity student | 🎨 WebDev Enthusiast  | 💖 Code meets Couture 💖  
 </p>
 
 
