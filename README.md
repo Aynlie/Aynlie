@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Jaymee J. Santos and I'm a cybersecurity student, from PH </h2>
 
 ###
 
