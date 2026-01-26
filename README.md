@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p2bDZhbnp0d3Z2c3lrNGZsMTV0cGhkOTc5ODVvYXkwcHY3NXpsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b17osqXImEFJKM/giphy.gif" width="500px" />
 </p>
