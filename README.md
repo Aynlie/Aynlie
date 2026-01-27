@@ -4,11 +4,9 @@
 
 # Hi 👋, I'm Jaymee
 
-### A passionate Php developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aynlie&label=Profile views&color=0e75b6&style=flat" alt="Aynlie" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aynlie" alt="Aynlie" /></a> </p>
+<p align="center">
+  🌸 Cybersecurity student | 🎨 WebDev Enthusiast  | 💖 Code meets Couture 💖  
+</p>
 
 - 🔭 I'm currently working on **- Cybersecurity Risk Detection System 
 - Tools for ctfs
