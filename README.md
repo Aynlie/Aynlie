@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF1eDNoZTczenNjeWk1N2ZkNzhwYXJtaDEwbWF3dWM0MWF3a3d6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0Zgq6zRrjiak/giphy.gif" alt="Pink Anime Banner" width="800px" height="300px"/>
 </p>
 
-<h1 align="center">Hi there 💕 I'm Jaymee 💻💅</h1>
+<h1 align="center">Hi there! I'm Jaymee </h1>
 
 <p align="center">
   🌸 Cybersecurity student | 🎨 WebDev Enthusiast  | 💖 Code meets Couture 💖  
