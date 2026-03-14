@@ -49,7 +49,7 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 ### 🛡️ Featured Project
 
 <a href="https://github.com/Aynlie/CYVE-WEB-APP">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aynlie&repo=CYVE-WEB-APP&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aynlie&repo=CYVE-WEB-APP&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252&show_description=true&cache_seconds=0" />
 </a>
 
 <br clear="left"/><br/>
