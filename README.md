@@ -45,6 +45,7 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 
 ---
 
+---
 ### 🛡️ Featured Project
 
 <a href="https://github.com/Aynlie/CYVE-WEB-APP">
@@ -53,10 +54,11 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 
 <br clear="left"/><br/>
 
-**CYVE** is a cybersecurity education platform with career path exploration, Red/Blue/Purple team breakdowns, and learning roadmaps — built with `Next.js` + `TypeScript` + `PHP` + `MySQL`.
+**CYVE** is a full-stack cybersecurity learning platform for exploring career paths in Red, Blue & Purple team security — built with `Next.js` + `TypeScript` + `PHP` + `MySQL`.
+
+🔗 **[View Repository](https://github.com/Aynlie/CYVE-WEB-APP)** · 🚀 **Status: Active Development**
 
 ---
-
 ### 🧰 Stack & Tools
 
 <div align="center">
