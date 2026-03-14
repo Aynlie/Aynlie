@@ -1,44 +1,116 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF1eDNoZTczenNjeWk1N2ZkNzhwYXJtaDEwbWF3dWM0MWF3a3d6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0Zgq6zRrjiak/giphy.gif" alt="Pink Anime Banner" width="800px" height="300px"/>
-</p>
+<div align="center">
 
-# Hi 👋, I'm Jaymee
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=200&section=header&text=Jaymee&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Blue%20Team%20%7C%20Web%20App%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  🌸 Cybersecurity student | 🎨 WebDev Enthusiast  | 💖 Code meets Couture 💖  
-</p>
+</div>
 
-- 🔭 I'm currently working on **- Cybersecurity Risk Detection System 
-- Tools for ctfs
-- portfolio**
+---
 
-- 🌱 I'm currently learning **- PHP, Rust, Ruby and C Languages**
+<img align="right" width="220" src="https://media1.giphy.com/media/xUA7b17osqXImEFJKM/200.gif" alt="What like it's hard - Elle Woods"/>
 
-- 📫 How to reach me **santosjaymee13@gmail.com**
+### 💖 Who am I?
 
-- ⚡ Fun fact **I drunk gas when I was 7 years old **
+Cybersecurity student at **Holy Angel University**, Philippines 🇵🇭
+Building, breaking, and defending — one lab at a time.
 
-###
+My focus sits at the intersection of **Blue Team operations** and **Web Application Security**.
+I want to understand how attacks work precisely so I can build defenses that hold.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full-stack cybersecurity learning platform that helps people navigate career paths in security (Red, Blue & Purple teams).
 
-###
+> 💅 *"What, like it's hard?"* — Elle Woods (and me, staring at a CTF challenge at 2am)
 
+<br clear="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Aynlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aynlie" height="30" width="40" /></a>
-<a href="https://instagram.com/Jaynielilie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jaynielilie" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aynlie&show_icons=true&locale=en&layout=compact" alt="Aynlie" /></p>
-###
+### 🔭 What I'm up to
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p2bDZhbnp0d3Z2c3lrNGZsMTV0cGhkOTc5ODVvYXkwcHY3NXpsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b17osqXImEFJKM/giphy.gif" width="500px" />
-</p>
+```text
+🛡️  Blue Team path        ████████░░░░░░░░   Grinding TryHackMe rooms
+🌐  Web App Security      ██████░░░░░░░░░░   OWASP Top 10, API security
+🦀  Currently learning    ████░░░░░░░░░░░░   Rust, C, Ruby, PHP
+🚀  Building              ██████████░░░░░░   CYVE platform (active dev)
+```
 
-<p align="center"><i>"What, like it's hard?" – Elle Woods</i></p>
+---
 
+### 🛡️ Featured Project
+
+<a href="https://github.com/Aynlie/CYVE-WEB-APP">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aynlie&repo=CYVE-WEB-APP&theme=dracula&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252" />
+</a>
+
+<br clear="left"/><br/>
+
+**CYVE** is a cybersecurity education platform with career path exploration, Red/Blue/Purple team breakdowns, and learning roadmaps — built with `Next.js` + `TypeScript` + `PHP` + `MySQL`.
+
+---
+
+### 🧰 Stack & Tools
+
+<div align="center">
+
+**Security 🔒**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+
+**Development 💻**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Tools 🛠️**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aynlie&show_icons=true&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aynlie&layout=compact&hide_border=true&bg_color=ffe0f0&title_color=d63384&text_color=8b2252" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aynlie&hide_border=true&background=ffe0f0&stroke=ff69b4&ring=d63384&fire=ff1493&currStreakLabel=d63384&sideLabels=8b2252&dates=8b2252&sideNums=d63384&currStreakNum=d63384" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+> Open to **cybersecurity internships** — SOC analyst, web app security, or blue team roles. 💌
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-santosjaymee13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosjaymee13@gmail.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40jaynielilie-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jaynielilie.bsky.social)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff69b4&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <sub>💖 Holy Angel University · Angeles City, PH · Open to cybersecurity internships 🛡️</sub>
+</div>
