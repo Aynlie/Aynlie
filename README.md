@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=200&section=header&text=Jaymee&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Blue%20Team%20%7C%20Web%20App%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb6c1&height=200&section=header&text=Jaymee&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Devcon%20Volunteer%20%7C%20GDGoC%20HAU&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -10,11 +10,11 @@
 
 ### 💖 Who am I?
 
-Cybersecurity student at **Holy Angel University**, Philippines 🇵🇭
+Cybersecurity student at **Holy Angel University**, Philippines 🇵🇭 · **Devcon Volunteer** · **GDGoC HAU** member
+
 Building, breaking, and defending — one lab at a time.
 
-My focus sits at the intersection of **Blue Team operations** and **Web Application Security**.
-I want to understand how attacks work precisely so I can build defenses that hold.
+My focus sits at the intersection of **Blue Team operations**, **Web Application Security**, and **Cloud Security**. I want to understand how attacks work precisely so I can build defenses that hold.
 
 Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full-stack cybersecurity learning platform that helps people navigate career paths in security (Red, Blue & Purple teams).
 
@@ -24,13 +24,23 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 
 ---
 
-### 🔭 What I'm up to
+### 🔐 Interested in
 
 ```text
-🛡️  Blue Team path        ████████░░░░░░░░   Grinding TryHackMe rooms
-🌐  Web App Security      ██████░░░░░░░░░░   OWASP Top 10, API security
-🦀  Currently learning    ████░░░░░░░░░░░░   Rust, C, Ruby, PHP
-🚀  Building              ██████████░░░░░░   CYVE platform (active dev)
+🛡️  Cybersecurity          Blue team · SOC · Threat detection · Incident response
+☁️  Cloud Security         Securing cloud infrastructure · IAM · Misconfig detection
+⚔️  Ethical Hacking        Web app pentesting · OWASP Top 10 · API security
+```
+
+---
+
+### 🔭 Currently learning
+
+```text
+🐍  Python security tools  ████████░░░░░░░░   Scripting for defense & automation
+🌐  Network security       ██████░░░░░░░░░░   Protocols, traffic analysis, Wireshark
+🌱  Open-source            ████░░░░░░░░░░░░   Contributing & collaborating publicly
+🚀  Building               ██████████░░░░░░   CYVE platform (active dev)
 ```
 
 ---
@@ -38,7 +48,7 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 ### 🛡️ Featured Project
 
 <a href="https://github.com/Aynlie/CYVE-WEB-APP">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aynlie&repo=CYVE-WEB-APP&theme=dracula&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aynlie&repo=CYVE-WEB-APP&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252" />
 </a>
 
 <br clear="left"/><br/>
@@ -95,10 +105,12 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 
 ### 🤝 Let's Connect
 
-> Open to **cybersecurity internships** — SOC analyst, web app security, or blue team roles. 💌
+> Open to **cybersecurity internships** — SOC analyst, web app security, cloud security, or blue team roles. 💌
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaymee%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaymee-santos/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-ff69b4?style=for-the-badge&logo=canva&logoColor=white)](https://arjaealexinvitation.my.canva.site/personal-brand-portfolio-website-jaymeesantos)
 [![Email](https://img.shields.io/badge/Email-santosjaymee13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santosjaymee13@gmail.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40jaynielilie-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/jaynielilie.bsky.social)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com)
@@ -112,5 +124,5 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 </div>
 
 <div align="center">
-  <sub>💖 Holy Angel University · Angeles City, PH · Open to cybersecurity internships 🛡️</sub>
+  <sub>💖 Holy Angel University · Angeles City, PH · Devcon Volunteer · GDGoC HAU · Open to cybersecurity internships 🛡️</sub>
 </div>
