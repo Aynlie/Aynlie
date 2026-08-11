@@ -92,19 +92,6 @@ Currently building [**CYVE**](https://github.com/Aynlie/CYVE-WEB-APP) — a full
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aynlie&show_icons=true&hide_border=true&bg_color=ffe0f0&title_color=d63384&icon_color=ff69b4&text_color=8b2252&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aynlie&layout=compact&hide_border=true&bg_color=ffe0f0&title_color=d63384&text_color=8b2252" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aynlie&hide_border=true&background=ffe0f0&stroke=ff69b4&ring=d63384&fire=ff1493&currStreakLabel=d63384&sideLabels=8b2252&dates=8b2252&sideNums=d63384&currStreakNum=d63384" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 > Open to **cybersecurity internships** — SOC analyst, web app security, cloud security, or blue team roles. 💌
